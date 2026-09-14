@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const card = document.querySelector('.card');
     
     // Set birthday to September 15, 2026
-    const targetDate = new Date('2025-09-15T00:00:00');
+    const targetDate = new Date('2026-09-15T00:00:00');
     
     // Update countdown timer
     function updateCountdown() {
